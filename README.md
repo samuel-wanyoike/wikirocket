@@ -1,1 +1,1 @@
-## A web app thst allows users to query data from wikipedia via wikipedia API
+## A web app that allows users to query data and get multiple results from wikipedia via wikipedia API
